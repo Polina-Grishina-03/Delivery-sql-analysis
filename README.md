@@ -2,10 +2,10 @@
 
 В данном блоке представлены мои решения задач по следующим темам:
 * **Агрегация данных:** [Data_aggregation](Data_aggregation.ipynb)
-* **Группировка данных**
-* **Подзапросы**
-* **Join**
-* **Оконные функции**
+* **Группировка данных** [Grouping_data](Grouping_data.ipynb)
+* **Подзапросы** [Subqueries](Subqueries.ipynb)
+* **Join** [Join](Join.ipynb)
+* **Оконные функции** [Window_functions](Window_functions.ipynb)
 
 *Для удобства интерпретации SQL запросы, описание задач и пояснения объединены в файлах jupyter notebook.*
 
